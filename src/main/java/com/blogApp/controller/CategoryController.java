@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+// This is CategoryController
 @RestController
 @RequestMapping("/api/v1/categories")
 public class CategoryController {
